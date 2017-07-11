@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DVTRecruitModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.ApplicantContract' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ApplicantContract">
+    <Key>
+      <PropertyRef Name="ApplicantContractId" />
+      <PropertyRef Name="CurrentGrossSalary" />
+      <PropertyRef Name="CurrentPerfomanceBonus" />
+      <PropertyRef Name="MedicalAidEmpContribution" />
+      <PropertyRef Name="MedicalAidIndContribution" />
+      <PropertyRef Name="ProvidentPensionEmpContribution" />
+      <PropertyRef Name="ProvidentPensionIndContribution" />
+      <PropertyRef Name="OtherEmpContribution" />
+      <PropertyRef Name="OtherIndContribution" />
+      <PropertyRef Name="CurrentEmplTypeId" />
+      <PropertyRef Name="ExpectedEmpTypeId" />
+      <PropertyRef Name="NoticePeriod" />
+      <PropertyRef Name="PermanentSalaryExpectation" />
+      <PropertyRef Name="ContractSalaryExpectation" />
+      <PropertyRef Name="PersonId" />
+      <PropertyRef Name="RecentlySentCvToOtherComp" />
+      <PropertyRef Name="InterviewsScheduled" />
+      <PropertyRef Name="ReasonLeavingCurrentComp" />
+      <PropertyRef Name="PreferredEnviroment" />
+    </Key>
+    <Property Name="ApplicantContractId" Type="int" Nullable="false" />
+    <Property Name="CurrentGrossSalary" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="CurrentPerfomanceBonus" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="MedicalAidEmpContribution" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="MedicalAidIndContribution" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="ProvidentPensionEmpContribution" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="ProvidentPensionIndContribution" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="OtherEmpContribution" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="OtherIndContribution" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="CurrentEmplTypeId" Type="int" Nullable="false" />
+    <Property Name="ExpectedEmpTypeId" Type="int" Nullable="false" />
+    <Property Name="NoticePeriod" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PermanentSalaryExpectation" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="ContractSalaryExpectation" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="PersonId" Type="int" Nullable="false" />
+    <Property Name="RecentlySentCvToOtherComp" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="InterviewsScheduled" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ReasonLeavingCurrentComp" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="PreferredEnviroment" Type="varchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.ApplicantInfo' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ApplicantInfo">
+    <Key>
+      <PropertyRef Name="ApplicantInfoId" />
+      <PropertyRef Name="WorkPermitNumber" />
+      <PropertyRef Name="WorkPermitEndDate" />
+      <PropertyRef Name="Health" />
+      <PropertyRef Name="DriversLicense" />
+      <PropertyRef Name="OwnTransport" />
+      <PropertyRef Name="OtherLaguages" />
+      <PropertyRef Name="PersonId" />
+      <PropertyRef Name="CurrentWorkLocation" />
+      <PropertyRef Name="CurrentJobTitle" />
+      <PropertyRef Name="PreferredJobTitle" />
+      <PropertyRef Name="PrefJhbCbd" />
+      <PropertyRef Name="PrefJhbNorth" />
+      <PropertyRef Name="PrefJhbSouth" />
+      <PropertyRef Name="PrefJhbWest" />
+      <PropertyRef Name="PrefMidrand" />
+      <PropertyRef Name="PrefPretoria" />
+      <PropertyRef Name="RelocateRsa" />
+      <PropertyRef Name="RelocateInternational" />
+    </Key>
+    <Property Name="ApplicantInfoId" Type="int" Nullable="false" />
+    <Property Name="WorkPermitNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="WorkPermitEndDate" Type="date" Nullable="false" />
+    <Property Name="Health" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DriversLicense" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="OwnTransport" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="OtherLaguages" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="PersonId" Type="int" Nullable="false" />
+    <Property Name="CurrentWorkLocation" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="CurrentJobTitle" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PreferredJobTitle" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PrefJhbCbd" Type="bit" Nullable="false" />
+    <Property Name="PrefJhbNorth" Type="bit" Nullable="false" />
+    <Property Name="PrefJhbSouth" Type="bit" Nullable="false" />
+    <Property Name="PrefJhbWest" Type="bit" Nullable="false" />
+    <Property Name="PrefMidrand" Type="bit" Nullable="false" />
+    <Property Name="PrefPretoria" Type="bit" Nullable="false" />
+    <Property Name="RelocateRsa" Type="bit" Nullable="false" />
+    <Property Name="RelocateInternational" Type="bit" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.Application' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Application">
+    <Key>
+      <PropertyRef Name="ApplicationId" />
+      <PropertyRef Name="ApplicationDate" />
+      <PropertyRef Name="StatusId" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="ApplicationId" Type="int" Nullable="false" />
+    <Property Name="ApplicationDate" Type="date" Nullable="false" />
+    <Property Name="StatusId" Type="int" Nullable="false" />
+    <Property Name="PersonId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.BackgroundChecks' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="BackgroundChecks">
+    <Key>
+      <PropertyRef Name="BackgroundCheckId" />
+      <PropertyRef Name="Convictions" />
+      <PropertyRef Name="CriminalRecord" />
+      <PropertyRef Name="CcmaCase" />
+      <PropertyRef Name="FraudCase" />
+      <PropertyRef Name="CreditRecord" />
+      <PropertyRef Name="Other" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="BackgroundCheckId" Type="int" Nullable="false" />
+    <Property Name="Convictions" Type="bit" Nullable="false" />
+    <Property Name="CriminalRecord" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="CcmaCase" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="FraudCase" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="CreditRecord" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="Other" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="PersonId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.Education' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Education">
+    <Key>
+      <PropertyRef Name="EducationId" />
+      <PropertyRef Name="EducationType" />
+      <PropertyRef Name="Institution" />
+      <PropertyRef Name="YearCompleted" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="EducationId" Type="int" Nullable="false" />
+    <Property Name="EducationType" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Institution" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="YearCompleted" Type="date" Nullable="false" />
+    <Property Name="PersonId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.EmploymentType' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="EmploymentType">
+    <Key>
+      <PropertyRef Name="EmploymentTypeId" />
+      <PropertyRef Name="EmploymentType" />
+    </Key>
+    <Property Name="EmploymentTypeId" Type="int" Nullable="false" />
+    <Property Name="EmploymentType" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.Gender' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Gender">
+    <Key>
+      <PropertyRef Name="GenderId" />
+      <PropertyRef Name="Gender" />
+    </Key>
+    <Property Name="GenderId" Type="int" Nullable="false" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.login' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="login">
+    <Key>
+      <PropertyRef Name="USERNAME" />
+    </Key>
+    <Property Name="USERNAME" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PASSWORD" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.NextOfKin' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="NextOfKin">
+    <Key>
+      <PropertyRef Name="NextOfKinId" />
+      <PropertyRef Name="NameSurname" />
+      <PropertyRef Name="ContactNumber" />
+      <PropertyRef Name="Relationship" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="NextOfKinId" Type="int" Nullable="false" />
+    <Property Name="NameSurname" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="ContactNumber" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Relationship" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PersonId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.Person' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="PersonId" />
+      <PropertyRef Name="Maidenname" />
+      <PropertyRef Name="Fullname" />
+      <PropertyRef Name="Surname" />
+      <PropertyRef Name="IdentityNumber" />
+      <PropertyRef Name="GenderId" />
+      <PropertyRef Name="RaceID" />
+      <PropertyRef Name="DateOfBirth" />
+      <PropertyRef Name="CellNumber" />
+      <PropertyRef Name="HomeLanguage" />
+      <PropertyRef Name="PhysicalAddress" />
+      <PropertyRef Name="PostalCode" />
+      <PropertyRef Name="AlternativeNumber" />
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="PersonId" Type="int" Nullable="false" />
+    <Property Name="Maidenname" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Fullname" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Surname" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="IdentityNumber" Type="int" Nullable="false" />
+    <Property Name="GenderId" Type="int" Nullable="false" />
+    <Property Name="RaceID" Type="int" Nullable="false" />
+    <Property Name="DateOfBirth" Type="date" Nullable="false" />
+    <Property Name="CellNumber" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="HomeLanguage" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PhysicalAddress" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="PostalCode" Type="varchar" MaxLength="5" Nullable="false" />
+    <Property Name="AlternativeNumber" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.ProjectSynopsis' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ProjectSynopsis">
+    <Key>
+      <PropertyRef Name="ProjectSynopsisId" />
+      <PropertyRef Name="Company" />
+      <PropertyRef Name="ProjectDescription" />
+      <PropertyRef Name="RoleOnProject" />
+      <PropertyRef Name="ProjectDuration" />
+      <PropertyRef Name="PrimaryStakeholders" />
+      <PropertyRef Name="ArtifactsProdused" />
+      <PropertyRef Name="Methodologies" />
+      <PropertyRef Name="TaskResponsibility" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="ProjectSynopsisId" Type="int" Nullable="false" />
+    <Property Name="Company" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProjectDescription" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="RoleOnProject" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProjectDuration" Type="int" Nullable="false" />
+    <Property Name="PrimaryStakeholders" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ArtifactsProdused" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Methodologies" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TaskResponsibility" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="PersonId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.Race' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Race">
+    <Key>
+      <PropertyRef Name="RaceId" />
+      <PropertyRef Name="Race" />
+    </Key>
+    <Property Name="RaceId" Type="int" Nullable="false" />
+    <Property Name="Race" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.References' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="References">
+    <Key>
+      <PropertyRef Name="ReferenceId" />
+      <PropertyRef Name="NameSurname" />
+      <PropertyRef Name="ContactNumber" />
+      <PropertyRef Name="EmailAddress" />
+      <PropertyRef Name="ReportDirectly" />
+      <PropertyRef Name="RefereeJobTitle" />
+      <PropertyRef Name="CanidateJobTitle" />
+      <PropertyRef Name="Company" />
+      <PropertyRef Name="Period" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="ReferenceId" Type="int" Nullable="false" />
+    <Property Name="NameSurname" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="ContactNumber" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="EmailAddress" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="ReportDirectly" Type="bit" Nullable="false" />
+    <Property Name="RefereeJobTitle" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CanidateJobTitle" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Company" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Period" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PersonId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.sysdiagrams' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="name" />
+      <PropertyRef Name="principal_id" />
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DVTRecruit.dbo.User' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+      <PropertyRef Name="FirstName" />
+      <PropertyRef Name="EmailAddress" />
+      <PropertyRef Name="UserName" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="EmailAddress" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DVTRecruitModelStoreContainer">
+    <EntitySet Name="ApplicantContract" EntityType="Self.ApplicantContract" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ApplicantContract].[ApplicantContractId] AS [ApplicantContractId], 
+    [ApplicantContract].[CurrentGrossSalary] AS [CurrentGrossSalary], 
+    [ApplicantContract].[CurrentPerfomanceBonus] AS [CurrentPerfomanceBonus], 
+    [ApplicantContract].[MedicalAidEmpContribution] AS [MedicalAidEmpContribution], 
+    [ApplicantContract].[MedicalAidIndContribution] AS [MedicalAidIndContribution], 
+    [ApplicantContract].[ProvidentPensionEmpContribution] AS [ProvidentPensionEmpContribution], 
+    [ApplicantContract].[ProvidentPensionIndContribution] AS [ProvidentPensionIndContribution], 
+    [ApplicantContract].[OtherEmpContribution] AS [OtherEmpContribution], 
+    [ApplicantContract].[OtherIndContribution] AS [OtherIndContribution], 
+    [ApplicantContract].[CurrentEmplTypeId] AS [CurrentEmplTypeId], 
+    [ApplicantContract].[ExpectedEmpTypeId] AS [ExpectedEmpTypeId], 
+    [ApplicantContract].[NoticePeriod] AS [NoticePeriod], 
+    [ApplicantContract].[PermanentSalaryExpectation] AS [PermanentSalaryExpectation], 
+    [ApplicantContract].[ContractSalaryExpectation] AS [ContractSalaryExpectation], 
+    [ApplicantContract].[PersonId] AS [PersonId], 
+    [ApplicantContract].[RecentlySentCvToOtherComp] AS [RecentlySentCvToOtherComp], 
+    [ApplicantContract].[InterviewsScheduled] AS [InterviewsScheduled], 
+    [ApplicantContract].[ReasonLeavingCurrentComp] AS [ReasonLeavingCurrentComp], 
+    [ApplicantContract].[PreferredEnviroment] AS [PreferredEnviroment]
+    FROM [dbo].[ApplicantContract] AS [ApplicantContract]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="ApplicantInfo" EntityType="Self.ApplicantInfo" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ApplicantInfo].[ApplicantInfoId] AS [ApplicantInfoId], 
+    [ApplicantInfo].[WorkPermitNumber] AS [WorkPermitNumber], 
+    [ApplicantInfo].[WorkPermitEndDate] AS [WorkPermitEndDate], 
+    [ApplicantInfo].[Health] AS [Health], 
+    [ApplicantInfo].[DriversLicense] AS [DriversLicense], 
+    [ApplicantInfo].[OwnTransport] AS [OwnTransport], 
+    [ApplicantInfo].[OtherLaguages] AS [OtherLaguages], 
+    [ApplicantInfo].[PersonId] AS [PersonId], 
+    [ApplicantInfo].[CurrentWorkLocation] AS [CurrentWorkLocation], 
+    [ApplicantInfo].[CurrentJobTitle] AS [CurrentJobTitle], 
+    [ApplicantInfo].[PreferredJobTitle] AS [PreferredJobTitle], 
+    [ApplicantInfo].[PrefJhbCbd] AS [PrefJhbCbd], 
+    [ApplicantInfo].[PrefJhbNorth] AS [PrefJhbNorth], 
+    [ApplicantInfo].[PrefJhbSouth] AS [PrefJhbSouth], 
+    [ApplicantInfo].[PrefJhbWest] AS [PrefJhbWest], 
+    [ApplicantInfo].[PrefMidrand] AS [PrefMidrand], 
+    [ApplicantInfo].[PrefPretoria] AS [PrefPretoria], 
+    [ApplicantInfo].[RelocateRsa] AS [RelocateRsa], 
+    [ApplicantInfo].[RelocateInternational] AS [RelocateInternational]
+    FROM [dbo].[ApplicantInfo] AS [ApplicantInfo]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Application" EntityType="Self.Application" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Application].[ApplicationId] AS [ApplicationId], 
+    [Application].[ApplicationDate] AS [ApplicationDate], 
+    [Application].[StatusId] AS [StatusId], 
+    [Application].[PersonId] AS [PersonId]
+    FROM [dbo].[Application] AS [Application]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="BackgroundChecks" EntityType="Self.BackgroundChecks" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [BackgroundChecks].[BackgroundCheckId] AS [BackgroundCheckId], 
+    [BackgroundChecks].[Convictions] AS [Convictions], 
+    [BackgroundChecks].[CriminalRecord] AS [CriminalRecord], 
+    [BackgroundChecks].[CcmaCase] AS [CcmaCase], 
+    [BackgroundChecks].[FraudCase] AS [FraudCase], 
+    [BackgroundChecks].[CreditRecord] AS [CreditRecord], 
+    [BackgroundChecks].[Other] AS [Other], 
+    [BackgroundChecks].[PersonId] AS [PersonId]
+    FROM [dbo].[BackgroundChecks] AS [BackgroundChecks]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Education" EntityType="Self.Education" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Education].[EducationId] AS [EducationId], 
+    [Education].[EducationType] AS [EducationType], 
+    [Education].[Institution] AS [Institution], 
+    [Education].[YearCompleted] AS [YearCompleted], 
+    [Education].[PersonId] AS [PersonId]
+    FROM [dbo].[Education] AS [Education]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="EmploymentType" EntityType="Self.EmploymentType" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [EmploymentType].[EmploymentTypeId] AS [EmploymentTypeId], 
+    [EmploymentType].[EmploymentType] AS [EmploymentType]
+    FROM [dbo].[EmploymentType] AS [EmploymentType]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Gender" EntityType="Self.Gender" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Gender].[GenderId] AS [GenderId], 
+    [Gender].[Gender] AS [Gender]
+    FROM [dbo].[Gender] AS [Gender]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="login" EntityType="Self.login" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [login].[USERNAME] AS [USERNAME], 
+    [login].[PASSWORD] AS [PASSWORD]
+    FROM [dbo].[login] AS [login]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="NextOfKin" EntityType="Self.NextOfKin" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [NextOfKin].[NextOfKinId] AS [NextOfKinId], 
+    [NextOfKin].[NameSurname] AS [NameSurname], 
+    [NextOfKin].[ContactNumber] AS [ContactNumber], 
+    [NextOfKin].[Relationship] AS [Relationship], 
+    [NextOfKin].[PersonId] AS [PersonId]
+    FROM [dbo].[NextOfKin] AS [NextOfKin]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Person" EntityType="Self.Person" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Person].[PersonId] AS [PersonId], 
+    [Person].[Maidenname] AS [Maidenname], 
+    [Person].[Fullname] AS [Fullname], 
+    [Person].[Surname] AS [Surname], 
+    [Person].[IdentityNumber] AS [IdentityNumber], 
+    [Person].[GenderId] AS [GenderId], 
+    [Person].[RaceID] AS [RaceID], 
+    [Person].[DateOfBirth] AS [DateOfBirth], 
+    [Person].[CellNumber] AS [CellNumber], 
+    [Person].[HomeLanguage] AS [HomeLanguage], 
+    [Person].[PhysicalAddress] AS [PhysicalAddress], 
+    [Person].[PostalCode] AS [PostalCode], 
+    [Person].[AlternativeNumber] AS [AlternativeNumber], 
+    [Person].[UserId] AS [UserId]
+    FROM [dbo].[Person] AS [Person]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="ProjectSynopsis" EntityType="Self.ProjectSynopsis" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ProjectSynopsis].[ProjectSynopsisId] AS [ProjectSynopsisId], 
+    [ProjectSynopsis].[Company] AS [Company], 
+    [ProjectSynopsis].[ProjectDescription] AS [ProjectDescription], 
+    [ProjectSynopsis].[RoleOnProject] AS [RoleOnProject], 
+    [ProjectSynopsis].[ProjectDuration] AS [ProjectDuration], 
+    [ProjectSynopsis].[PrimaryStakeholders] AS [PrimaryStakeholders], 
+    [ProjectSynopsis].[ArtifactsProdused] AS [ArtifactsProdused], 
+    [ProjectSynopsis].[Methodologies] AS [Methodologies], 
+    [ProjectSynopsis].[TaskResponsibility] AS [TaskResponsibility], 
+    [ProjectSynopsis].[PersonId] AS [PersonId]
+    FROM [dbo].[ProjectSynopsis] AS [ProjectSynopsis]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Race" EntityType="Self.Race" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Race].[RaceId] AS [RaceId], 
+    [Race].[Race] AS [Race]
+    FROM [dbo].[Race] AS [Race]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="References" EntityType="Self.References" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [References].[ReferenceId] AS [ReferenceId], 
+    [References].[NameSurname] AS [NameSurname], 
+    [References].[ContactNumber] AS [ContactNumber], 
+    [References].[EmailAddress] AS [EmailAddress], 
+    [References].[ReportDirectly] AS [ReportDirectly], 
+    [References].[RefereeJobTitle] AS [RefereeJobTitle], 
+    [References].[CanidateJobTitle] AS [CanidateJobTitle], 
+    [References].[Company] AS [Company], 
+    [References].[Period] AS [Period], 
+    [References].[PersonId] AS [PersonId]
+    FROM [dbo].[References] AS [References]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [sysdiagrams].[name] AS [name], 
+    [sysdiagrams].[principal_id] AS [principal_id], 
+    [sysdiagrams].[diagram_id] AS [diagram_id], 
+    [sysdiagrams].[version] AS [version], 
+    [sysdiagrams].[definition] AS [definition]
+    FROM [dbo].[sysdiagrams] AS [sysdiagrams]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="User" EntityType="Self.User" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [User].[UserId] AS [UserId], 
+    [User].[FirstName] AS [FirstName], 
+    [User].[EmailAddress] AS [EmailAddress], 
+    [User].[UserName] AS [UserName], 
+    [User].[Password] AS [Password]
+    FROM [dbo].[User] AS [User]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

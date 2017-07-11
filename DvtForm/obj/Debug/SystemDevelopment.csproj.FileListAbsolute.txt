@@ -1,0 +1,328 @@
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\ApplicationInsights.config
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\csc.exe
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\vbc.exe
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\DvtForm.dll.config
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\DvtForm.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\DvtForm.pdb
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Antlr3.Runtime.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\EntityFramework.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\EntityFramework.SqlServer.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.Web.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Newtonsoft.Json.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Owin.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.Helpers.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.Mvc.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.Optimization.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.Razor.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.Razor.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\WebGrease.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.Web.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.Helpers.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.Mvc.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.Optimization.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.Razor.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.Razor.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Antlr3.Runtime.pdb
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Newtonsoft.Json.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\EntityFramework.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\EntityFramework.SqlServer.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\obj\Debug\SystemDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\obj\Debug\DvtForm.dll
+C:\Users\CSididzha\Desktop\individualProjects\DvtForm\DvtForm\obj\Debug\DvtForm.pdb
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\ApplicationInsights.config
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\csc.exe
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\vbc.exe
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\DvtForm.dll.config
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\DvtForm.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\DvtForm.pdb
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Antlr3.Runtime.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\EntityFramework.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\EntityFramework.SqlServer.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.Web.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Newtonsoft.Json.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Owin.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.Helpers.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.Mvc.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.Optimization.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.Razor.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.Razor.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\WebGrease.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.Web.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.Helpers.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.Mvc.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.Optimization.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.Razor.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\System.Web.WebPages.Razor.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Antlr3.Runtime.pdb
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Newtonsoft.Json.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\EntityFramework.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\EntityFramework.SqlServer.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\obj\Debug\SystemDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\obj\Debug\DvtForm.dll
+C:\Users\CSididzha\Documents\individualProjects\DvtForm\DvtForm\obj\Debug\DvtForm.pdb
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\ApplicationInsights.config
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\csc.exe
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\vbc.exe
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\DvtForm.dll.config
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\DvtForm.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\DvtForm.pdb
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Antlr3.Runtime.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\EntityFramework.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\EntityFramework.SqlServer.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.Web.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Newtonsoft.Json.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Owin.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.Helpers.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.Mvc.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.Optimization.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.Razor.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.WebPages.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.WebPages.Razor.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\WebGrease.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.Web.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.Helpers.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.Mvc.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.Optimization.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.Razor.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.WebPages.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\System.Web.WebPages.Razor.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Antlr3.Runtime.pdb
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Newtonsoft.Json.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\EntityFramework.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\EntityFramework.SqlServer.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\obj\Debug\SystemDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\obj\Debug\DvtForm.dll
+C:\Users\CSididzha\Desktop\projects\DvtForm\DvtForm\obj\Debug\DvtForm.pdb
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\ApplicationInsights.config
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\csc.exe
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\vbc.exe
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\DvtForm.dll.config
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\DvtForm.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\DvtForm.pdb
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Antlr3.Runtime.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\EntityFramework.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\EntityFramework.SqlServer.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.Web.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Newtonsoft.Json.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Owin.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.Helpers.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.Mvc.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.Optimization.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.Razor.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.WebPages.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.WebPages.Razor.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\WebGrease.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.Web.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.Helpers.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.Mvc.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.Optimization.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.Razor.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.WebPages.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\System.Web.WebPages.Razor.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Antlr3.Runtime.pdb
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Newtonsoft.Json.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\EntityFramework.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\EntityFramework.SqlServer.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\obj\Debug\SystemDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\obj\Debug\DvtForm.dll
+C:\Users\CSididzha\Desktop\business intelligence stuff\projects\DvtForm\DvtForm\obj\Debug\DvtForm.pdb

@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DVTRecruitModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ApplicantContract">
+    <Key>
+      <PropertyRef Name="ApplicantContractId" />
+      <PropertyRef Name="CurrentGrossSalary" />
+      <PropertyRef Name="CurrentPerfomanceBonus" />
+      <PropertyRef Name="MedicalAidEmpContribution" />
+      <PropertyRef Name="MedicalAidIndContribution" />
+      <PropertyRef Name="ProvidentPensionEmpContribution" />
+      <PropertyRef Name="ProvidentPensionIndContribution" />
+      <PropertyRef Name="OtherEmpContribution" />
+      <PropertyRef Name="OtherIndContribution" />
+      <PropertyRef Name="CurrentEmplTypeId" />
+      <PropertyRef Name="ExpectedEmpTypeId" />
+      <PropertyRef Name="NoticePeriod" />
+      <PropertyRef Name="PermanentSalaryExpectation" />
+      <PropertyRef Name="ContractSalaryExpectation" />
+      <PropertyRef Name="PersonId" />
+      <PropertyRef Name="RecentlySentCvToOtherComp" />
+      <PropertyRef Name="InterviewsScheduled" />
+      <PropertyRef Name="ReasonLeavingCurrentComp" />
+      <PropertyRef Name="PreferredEnviroment" />
+    </Key>
+    <Property Name="ApplicantContractId" Type="Int32" Nullable="false" />
+    <Property Name="CurrentGrossSalary" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="CurrentPerfomanceBonus" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="MedicalAidEmpContribution" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="MedicalAidIndContribution" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="ProvidentPensionEmpContribution" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="ProvidentPensionIndContribution" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="OtherEmpContribution" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="OtherIndContribution" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="CurrentEmplTypeId" Type="Int32" Nullable="false" />
+    <Property Name="ExpectedEmpTypeId" Type="Int32" Nullable="false" />
+    <Property Name="NoticePeriod" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PermanentSalaryExpectation" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="ContractSalaryExpectation" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+    <Property Name="RecentlySentCvToOtherComp" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="InterviewsScheduled" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ReasonLeavingCurrentComp" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PreferredEnviroment" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ApplicantInfo">
+    <Key>
+      <PropertyRef Name="ApplicantInfoId" />
+      <PropertyRef Name="WorkPermitNumber" />
+      <PropertyRef Name="WorkPermitEndDate" />
+      <PropertyRef Name="Health" />
+      <PropertyRef Name="DriversLicense" />
+      <PropertyRef Name="OwnTransport" />
+      <PropertyRef Name="OtherLaguages" />
+      <PropertyRef Name="PersonId" />
+      <PropertyRef Name="CurrentWorkLocation" />
+      <PropertyRef Name="CurrentJobTitle" />
+      <PropertyRef Name="PreferredJobTitle" />
+      <PropertyRef Name="PrefJhbCbd" />
+      <PropertyRef Name="PrefJhbNorth" />
+      <PropertyRef Name="PrefJhbSouth" />
+      <PropertyRef Name="PrefJhbWest" />
+      <PropertyRef Name="PrefMidrand" />
+      <PropertyRef Name="PrefPretoria" />
+      <PropertyRef Name="RelocateRsa" />
+      <PropertyRef Name="RelocateInternational" />
+    </Key>
+    <Property Name="ApplicantInfoId" Type="Int32" Nullable="false" />
+    <Property Name="WorkPermitNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="WorkPermitEndDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Health" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DriversLicense" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="OwnTransport" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="OtherLaguages" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+    <Property Name="CurrentWorkLocation" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CurrentJobTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PreferredJobTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PrefJhbCbd" Type="Boolean" Nullable="false" />
+    <Property Name="PrefJhbNorth" Type="Boolean" Nullable="false" />
+    <Property Name="PrefJhbSouth" Type="Boolean" Nullable="false" />
+    <Property Name="PrefJhbWest" Type="Boolean" Nullable="false" />
+    <Property Name="PrefMidrand" Type="Boolean" Nullable="false" />
+    <Property Name="PrefPretoria" Type="Boolean" Nullable="false" />
+    <Property Name="RelocateRsa" Type="Boolean" Nullable="false" />
+    <Property Name="RelocateInternational" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Application">
+    <Key>
+      <PropertyRef Name="ApplicationId" />
+      <PropertyRef Name="ApplicationDate" />
+      <PropertyRef Name="StatusId" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="ApplicationId" Type="Int32" Nullable="false" />
+    <Property Name="ApplicationDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="StatusId" Type="Int32" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BackgroundCheck">
+    <Key>
+      <PropertyRef Name="BackgroundCheckId" />
+      <PropertyRef Name="Convictions" />
+      <PropertyRef Name="CriminalRecord" />
+      <PropertyRef Name="CcmaCase" />
+      <PropertyRef Name="FraudCase" />
+      <PropertyRef Name="CreditRecord" />
+      <PropertyRef Name="Other" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="BackgroundCheckId" Type="Int32" Nullable="false" />
+    <Property Name="Convictions" Type="Boolean" Nullable="false" />
+    <Property Name="CriminalRecord" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CcmaCase" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FraudCase" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CreditRecord" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Other" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Education">
+    <Key>
+      <PropertyRef Name="EducationId" />
+      <PropertyRef Name="EducationType" />
+      <PropertyRef Name="Institution" />
+      <PropertyRef Name="YearCompleted" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="EducationId" Type="Int32" Nullable="false" />
+    <Property Name="EducationType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Institution" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="YearCompleted" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmploymentType">
+    <Key>
+      <PropertyRef Name="EmploymentTypeId" />
+      <PropertyRef Name="EmploymentType1" />
+    </Key>
+    <Property Name="EmploymentTypeId" Type="Int32" Nullable="false" />
+    <Property Name="EmploymentType1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Gender">
+    <Key>
+      <PropertyRef Name="GenderId" />
+      <PropertyRef Name="Gender1" />
+    </Key>
+    <Property Name="GenderId" Type="Int32" Nullable="false" />
+    <Property Name="Gender1" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="login">
+    <Key>
+      <PropertyRef Name="USERNAME" />
+    </Key>
+    <Property Name="USERNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="NextOfKin">
+    <Key>
+      <PropertyRef Name="NextOfKinId" />
+      <PropertyRef Name="NameSurname" />
+      <PropertyRef Name="ContactNumber" />
+      <PropertyRef Name="Relationship" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="NextOfKinId" Type="Int32" Nullable="false" />
+    <Property Name="NameSurname" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ContactNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Relationship" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="PersonId" />
+      <PropertyRef Name="Maidenname" />
+      <PropertyRef Name="Fullname" />
+      <PropertyRef Name="Surname" />
+      <PropertyRef Name="IdentityNumber" />
+      <PropertyRef Name="GenderId" />
+      <PropertyRef Name="RaceID" />
+      <PropertyRef Name="DateOfBirth" />
+      <PropertyRef Name="CellNumber" />
+      <PropertyRef Name="HomeLanguage" />
+      <PropertyRef Name="PhysicalAddress" />
+      <PropertyRef Name="PostalCode" />
+      <PropertyRef Name="AlternativeNumber" />
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+    <Property Name="Maidenname" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Fullname" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdentityNumber" Type="Int32" Nullable="false" />
+    <Property Name="GenderId" Type="Int32" Nullable="false" />
+    <Property Name="RaceID" Type="Int32" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="CellNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HomeLanguage" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PhysicalAddress" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PostalCode" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AlternativeNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProjectSynopsi">
+    <Key>
+      <PropertyRef Name="ProjectSynopsisId" />
+      <PropertyRef Name="Company" />
+      <PropertyRef Name="ProjectDescription" />
+      <PropertyRef Name="RoleOnProject" />
+      <PropertyRef Name="ProjectDuration" />
+      <PropertyRef Name="PrimaryStakeholders" />
+      <PropertyRef Name="ArtifactsProdused" />
+      <PropertyRef Name="Methodologies" />
+      <PropertyRef Name="TaskResponsibility" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="ProjectSynopsisId" Type="Int32" Nullable="false" />
+    <Property Name="Company" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ProjectDescription" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="RoleOnProject" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ProjectDuration" Type="Int32" Nullable="false" />
+    <Property Name="PrimaryStakeholders" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ArtifactsProdused" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Methodologies" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TaskResponsibility" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Race">
+    <Key>
+      <PropertyRef Name="RaceId" />
+      <PropertyRef Name="Race1" />
+    </Key>
+    <Property Name="RaceId" Type="Int32" Nullable="false" />
+    <Property Name="Race1" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Reference">
+    <Key>
+      <PropertyRef Name="ReferenceId" />
+      <PropertyRef Name="NameSurname" />
+      <PropertyRef Name="ContactNumber" />
+      <PropertyRef Name="EmailAddress" />
+      <PropertyRef Name="ReportDirectly" />
+      <PropertyRef Name="RefereeJobTitle" />
+      <PropertyRef Name="CanidateJobTitle" />
+      <PropertyRef Name="Company" />
+      <PropertyRef Name="Period" />
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="ReferenceId" Type="Int32" Nullable="false" />
+    <Property Name="NameSurname" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ContactNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EmailAddress" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ReportDirectly" Type="Boolean" Nullable="false" />
+    <Property Name="RefereeJobTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CanidateJobTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Company" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Period" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="name" />
+      <PropertyRef Name="principal_id" />
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+      <PropertyRef Name="FirstName" />
+      <PropertyRef Name="EmailAddress" />
+      <PropertyRef Name="UserName" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EmailAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DVTRecruitEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ApplicantContracts" EntityType="Self.ApplicantContract" />
+    <EntitySet Name="ApplicantInfoes" EntityType="Self.ApplicantInfo" />
+    <EntitySet Name="Applications" EntityType="Self.Application" />
+    <EntitySet Name="BackgroundChecks" EntityType="Self.BackgroundCheck" />
+    <EntitySet Name="Educations" EntityType="Self.Education" />
+    <EntitySet Name="EmploymentTypes" EntityType="Self.EmploymentType" />
+    <EntitySet Name="Genders" EntityType="Self.Gender" />
+    <EntitySet Name="logins" EntityType="Self.login" />
+    <EntitySet Name="NextOfKins" EntityType="Self.NextOfKin" />
+    <EntitySet Name="People" EntityType="Self.Person" />
+    <EntitySet Name="ProjectSynopsis" EntityType="Self.ProjectSynopsi" />
+    <EntitySet Name="Races" EntityType="Self.Race" />
+    <EntitySet Name="References" EntityType="Self.Reference" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+  </EntityContainer>
+</Schema>
